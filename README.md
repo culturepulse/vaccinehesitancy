@@ -1,5 +1,5 @@
 # vaccinehesitancy
-A repository for data from the vaccine hesitancy study done with Kingston University. 
+A repository for data from the vaccine hesitancy study done with Kingston University. More information on the paper available here: https://mythos.one/justinlane/b086b3 
 # Results overview
 In a recent study, we gathered a representative sample of UK residents and asked them about their opinions on the vaccines (note: data was collected before recent news about blood-clotting issues in relation to the AstraZenica vaccine). 
 We found that most people will take the Oxford and Pfizer vaccines. 
